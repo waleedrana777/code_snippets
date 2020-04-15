@@ -10,7 +10,7 @@
 #f.close()
 
 ##Reading Files:
-#with open("test.txt", "r") as f:
+# with open("test.txt", "r") as f:
 	#pass
 
 	##Small Files:
@@ -38,8 +38,8 @@
 		#print(line, end = '')
 
 	###Going Back....:
-	#f_contents = f.read()
-	#print(f_contents, end = '')
+	# f_contents = f.read()
+	# print(f_contents)
 
 	###Printing by characters:
 	#f_contents = f.read(100)
